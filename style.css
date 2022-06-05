@@ -158,10 +158,13 @@ h3{
     width: 80%;
 }
 
+/* section-5 */
+
 .section-5{
     display: flex;
     width: 90%;
     margin-left: 4%;
+    margin-bottom: 60px;
 }
 
 .motivation{
